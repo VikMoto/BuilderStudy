@@ -17,7 +17,7 @@ public class Juce extends NutritionFacts{
 
     }
     private Juce(super.Builder builder) {
-        this(super.)
+        this(super());
         sugar = builder.sugar;
 
     }
